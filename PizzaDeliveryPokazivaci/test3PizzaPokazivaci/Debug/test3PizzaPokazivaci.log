@@ -1,0 +1,6 @@
+﻿  test3PizzaPokazivaci.cpp
+c:\users\uc-m10\documents\jurica martinez\bootcampit-jurica\test3pizzapokazivaci\test3pizzapokazivaci\test3pizzapokazivaci.cpp(18): warning C4018: '<': signed/unsigned mismatch
+c:\users\uc-m10\documents\jurica martinez\bootcampit-jurica\test3pizzapokazivaci\test3pizzapokazivaci\test3pizzapokazivaci.cpp(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\uc-m10\documents\jurica martinez\bootcampit-jurica\test3pizzapokazivaci\test3pizzapokazivaci\test3pizzapokazivaci.cpp(121): warning C4018: '<': signed/unsigned mismatch
+c:\users\uc-m10\documents\jurica martinez\bootcampit-jurica\test3pizzapokazivaci\test3pizzapokazivaci\test3pizzapokazivaci.cpp(146): warning C4018: '<': signed/unsigned mismatch
+  test3PizzaPokazivaci.vcxproj -> C:\Users\UC-M10\Documents\Jurica Martinez\BootCampIT-Jurica\test3PizzaPokazivaci\Debug\test3PizzaPokazivaci.exe
